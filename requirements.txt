@@ -1,0 +1,4 @@
+sarvamai
+pydub
+python-dotenv
+rich
